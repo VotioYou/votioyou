@@ -1,6 +1,6 @@
 ## Boas Vindas ao meu perfil 😄
 
-Meu Nome é Vinicius
+Meu nome é Vinicius
 
 Estou fazendo cursos no [alura](https://cursos.alura.com.br/dashboard)
 
