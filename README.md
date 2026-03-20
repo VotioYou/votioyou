@@ -1,10 +1,8 @@
-## Boas Vindas ao meu perfil 😄
+## Boas Vindas ao meu perfil! 😄
 
-Meu nome é Vinicius
+Meu nome é Vinicius Ferreira de Oliveira
 
-Estou fazendo cursos no [alura](https://cursos.alura.com.br/dashboard)
-
-Estou me desenvolvendo na Linguagem JavaScript, Python e C#
+Estou me desenvolvendo nas linguagens: JavaScript, Python e C#
 
 Uso esse espaço para compartilhamento e organização de projetos
 
